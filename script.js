@@ -18,10 +18,10 @@ console.log(statement.slice(33, 38));
 console.log(statement.substring(33, 38));
 console.log(statement.substr(33, 5))
 //for Nigeria
-console.log(statement.slice(7, 137));
-console.log(statement.substring(21, 26));
-console.log(statement.substr(43, 44))
+console.log(statement.slice(43, 50));
+console.log(statement.substring(43, 50));
+console.log(statement.substr(43, 7))
 //for ...
-console.log(statement.slice(7, 137));
-console.log(statement.substring(21, 26));
-console.log(statement.substr(43, 44))
+console.log(statement.slice(50, 53));
+console.log(statement.substring(50, 53));
+console.log(statement.substr(50, 3))
